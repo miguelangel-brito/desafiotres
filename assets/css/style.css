@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;color: white;
+    margin: 0%;
+}
+/* apertura */
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(6, 66, 66);
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 0px; margin-top: 30px;
+}
+.imagen_1{
+    width: 100%;
+}
+/* cierre */
+
+/* apertura*/
+.iguana_2{
+    padding: 5%;
+    display: flex;
+    background-color: black;
+}
+.imagen_2{
+    width: 500px;
+    float: right;
+}
+/* cierre */
+
+/* apertura caracteristica*/
+.fondogris{
+    background-color: rgb(131, 128, 128);
+}
+.caractaristicas{
+    text-align: center;
+    padding: 20px;
+}
+.propiedades{
+    width: 30%;
+    display: inline-block;
+    padding: 1%;
+    text-align: center;
+}
+.propiedades i{
+    display: inline-block;
+    padding: 1em;
+    font-size: xx-large;
+}
+/* cierre */
+
+/* apertura */
+
+.iguanas{
+    display: flex;
+}
+.iguanas_div{
+    display: flex;
+    width: 70%;
+    margin: 60px auto;
+
+}
+.iguanas img{
+    display: flex;
+    width: 31%;
+    padding: 1%;
+}
+/* cierre */
+
+/* apertura */
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(7, 7, 56);
+    text-align: center;
+    font-size: 2em;
+    background-color: rgb(131, 128, 128);
+}
